@@ -9,7 +9,7 @@ UniScheduler API is a backend service for managing student and doctor schedules,
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -89,7 +89,5 @@ dotnet run
     ```
 6. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
