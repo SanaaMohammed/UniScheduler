@@ -71,7 +71,7 @@ UniScheduler API is a backend service for managing student and doctor schedules,
 To start the API, run:
 ```sh
 dotnet run
-
+```
 ## Contributing
 
 1. Fork the repository.
