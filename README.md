@@ -8,7 +8,6 @@ UniScheduler API is a backend service for managing student and doctor schedules,
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Endpoints](#endpoints)
 - [Contributing](#contributing)
 - [License](#license)
 
